@@ -1,0 +1,3 @@
+# projet-PythonCalculator
+
+a solo project in three days. i managed to handle the main operations with the correct priorities, struggled a bit to handle more than one level of parenthesis, but i'm not far...
